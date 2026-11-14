@@ -35,3 +35,22 @@ Autor i licencja są też podane pod każdą kartą w galerii.
 | Mateusz Morawiecki | Krystian Maj / KPRM | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File:Morawiecki_Mateusz_2.jpg) |
 
 Zdjęcia Gierka i Tuska używane w ukrytych niespodziankach (menu *Opcje* i *Plik*) pochodzą z oryginalnej wersji quizu.
+
+## Memy w okienku „Zakręć!”
+
+Po kliknięciu „🌀 Zakręć!” w galerii losuje się jeden z kilku memicznych wariantów (napisy, dymek z cytatem, czasem naklejka ze zdjęciem). Przycisk „🎲 Inny mem” albo klawisz **R** losuje kolejny. Naklejki (`img/memy/`) też pochodzą z Wikimedia Commons:
+
+| Naklejka | Autor | Licencja | Plik |
+|---|---|---|---|
+| kremówka (Jan Paweł II) | Franek Vetulani | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Krem%C3%B3wka_papieska_na_Rynku_w_Wadowicach_by_Vetulani.jpg) |
+| kot (Jarosław Kaczyński) | George E. Koronaios | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:British_Shorthair_cat.jpg) |
+| Fiat 126p (Gierek) | P-szat | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Polski_Fiat_126p_rocznik_1973.jpg) |
+| SARS-CoV-2 (Morawiecki) | CDC / Alissa Eckert, Dan Higgins | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:SARS-CoV-2_without_background.png) |
+| zielona wyspa (Tusk) | Nyttend | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Green_Island,_Lake_Erie,_from_the_air.jpg) |
+| kran (Tusk) | Vien Hoang | [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File:Tap-gb0fe5d2cc_1920.jpg) |
+| skarbonka (Szydło) | QuinceMedia | [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File:Piggy_bank_on_pink_background.jpg) |
+| Mi-8 (Miller) | Jaan Künnap | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Helikopter_Mi-8_86.jpg) |
+| kartofel (Lech Kaczyński) | DenesFeri | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Solanales_-_Solanum_tuberosum_-_5.jpg) |
+| telewizor Vela (Jaruzelski) | Pulawysmok | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Telewizor_%E2%80%9EVela_203%E2%80%9D.jpg) |
+| krzesło (Komorowski) | Stanisław Wyspiański / Muzeum Narodowe w Krakowie | [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File:Stanis%C5%82aw_Wyspia%C5%84ski_-_Krzes%C5%82o_-_MNK_IV-Sp-281_-_National_Museum_in_Krak%C3%B3w.jpg) |
+| graffiti z podpisania Porozumień Sierpniowych (Wałęsa) | Artur Andrzej | [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File:Podpisanie_porozumie%C5%84_sierpniowych_w_Gda%C5%84sku_-_graffiti_w_Gda%C5%84sku.jpg) |
