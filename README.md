@@ -6,7 +6,7 @@ Interaktywny quiz z galerią postaci, w dwóch wersjach:
 - **`quiz-prl-spokojny.html`** – wersja spokojna (stonowany wygląd, bez efektów),
 - **`index.html`** – strona startowa z wyborem wersji.
 
-Strona jest publikowana przez GitHub Pages (workflow `.github/workflows/pages.yml`).
+Strona jest publikowana przez GitHub Pages: https://sikoorq.github.io/Quiz-Wos-PRL---III-RP/
 
 ## Zdjęcia w galerii postaci
 
